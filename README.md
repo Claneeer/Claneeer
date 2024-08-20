@@ -5,20 +5,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Know linguage.
-<head>
-<style>
-  .button{
-    display: inline-block;
-    padding: 8px 20px;
-    background-color: #EA80FF;
-    color: white;
-  text-align: center;
-  text-decoration: none;
-  border: none;
-  border-radius: 4px;
-  }
-</style>
-</head>
 
 <div>
   <img src='https://th.bing.com/th/id/OIP.J1RRAwDX_ZT7rpAtiFNSTQHaEH?rs=1&pid=ImgDetMain' height="50", wight="80">
