@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <div>
-  <img src='[https://th.bing.com/th/id/OIP.744mxzC5wmuJwSAv6Ej3XwHaHa?rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIP.35UyWW5UkqFtM5-2rLScewHaFI?rs=1&pid=ImgDetMain)' height="20", wight="30">
+  <img src='https://th.bing.com/th/id/R.8ef5f68f58d9f4416f4e8c4469ae959a?rik=qd70mR9MbczntA&pid=ImgRaw&r=0' height="50", wight="80">
   <img src='https://th.bing.com/th/id/R.0a647fc5050bad726b04da3b43811462?rik=dcIjXOXZzstB5w&riu=http%3a%2f%2fpngimg.com%2fuploads%2fphp%2fphp_PNG43.png&ehk=7TdwQLfezWpSM0aLD5IF72eM0WJ81ZTLj59vJ%2fbMo2M%3d&risl=&pid=ImgRaw&r=0'height="50", wight="80">
 </div>
