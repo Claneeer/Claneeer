@@ -12,7 +12,6 @@
   <img src='https://logospng.org/wp-content/uploads/java.png'height="50", wight="80">
   <img src='https://logospng.org/wp-content/uploads/mysql.png' height="50",wight="80">
   <img src='https://logospng.org/wp-content/uploads/css-3.png' height="50",wight="80">
-  <img src='https://getcssscan.com/css-buttons-examples'>
 </div>
 - 3 main project
 <div align="center" style="display: inline-block">
