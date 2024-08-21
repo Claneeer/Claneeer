@@ -17,6 +17,6 @@
 <div align="center" style="display: inline-block">
   <a href='https://github.com/Claneer/NeoAcademy' type="button">NeoAcademy</a>
 </div>
-<div>
+<div alin="center">
   <img src='https://4.bp.blogspot.com/-aOyI66-_LUY/V_BhqnOps2I/AAAAAAAABGg/c326rijTUs47dSZMR-Gf8kKarDk29CRRACLcB/s1600/Akuma-Sign-Flashing-Back.gif'>
 </div>
