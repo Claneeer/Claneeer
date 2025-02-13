@@ -37,12 +37,12 @@
 
 <br/>
 
-<a href="https://github.com/claner" title="Perfil do Claner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claner&theme=dracula&show_icons=true" />
+<a href="https://github.com/claneer" title="Perfil do Claneer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claneer&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/pedro-ivo-gonçalves-38426726a)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:Pedrovickluke5@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/claner)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/claneer)
