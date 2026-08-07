@@ -55,7 +55,9 @@ Estou focado no desenvolvimento de sistemas robustos, de alta performance e esca
 ### 📌 Projetos em Destaque
 
 - **[BankSys]**: Aplicação Back-End / Mobile para simulação de serviços bancários.
-- **[ReVibe]**: Plataforma e marketplace voltado para economia circular e redução de resíduos têxteis.
+- **[TechTest]**: Aplicação Back-End / Focado em teste de computadores e notebooks.
+- **[NeoAcademy]**: Aplicação Web / Plataforma de curso online EAD.
+- **[CarroAmarelo]**: Aplicação Web / Plataforma de controle de concessionaria. 
 
 ---
 
