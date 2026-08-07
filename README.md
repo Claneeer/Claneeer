@@ -1,48 +1,64 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<div align="center">
 
-## Sobre mim
+  <h1>👋 Olá, eu sou o Pedro Ivo!</h1>
+  <p><b>Desenvolvedor Back-End & Estudante de Ciência da Computação</b></p>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da computação no Uniceub.
-- 💼 Desempregado.
-- 🌱 Aprendendo mais sobre Javascript.
+  <!-- Badges de Status / Redes -->
+  <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/Localização-Brasília--DF-0070F3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brasília"/>
 
-## Minhas Skills
-
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
+</div>
 
 <br/>
 
-<a href="https://github.com/claneer" title="Perfil do Claneer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claneer&theme=dracula&show_icons=true" />
-</a>
+---
 
-## Onde me encontrar
+### 🛠️ Linguagens e Proficiências Principais
 
-[![Linkedin](https://img.shields.io/badge/-Pedroivo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedro-ivo-gonçalves-38426726a)](www.linkedin.com/in/pedro-ivo-gonçalves-38426726a)
-[![Gmail Badge](https://img.shields.io/badge/-pedrovickluke5@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:Pedrovickluke5@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/claneer)
+Estou focado no desenvolvimento de sistemas robustos, de alta performance e escaláveis no **Back-End**:
+
+<div align="center">
+
+| Linguagem | Uso / Foco | Ecossistema / Frameworks |
+| :---: | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/> **C#** | APIs RESTful, Sistemas Corporativos, OOP e Arquitetura Limpa | `.NET`, ASP.NET Core, Entity Framework |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="30"/> **Rust** | Performance, Concorrência Segura, CLI Tools e Serviços de Baixa Latência | Cargo, Tokio, Axum |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> **Python** | Automação, APIs Ágeis, Data / Analytics e Scripting | FastAPI, Flask, Pandas, MySQL Connector |
+
+</div>
+
+<br/>
+
+### ⚙️ Tecno-Stack & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `C#` • `Rust` • `Python` • `SQL` |
+| **Frameworks & Libs** | `.NET Core` • `FastAPI` • `Entity Framework` |
+| **Banco de Dados** | `MySQL` • `MongoDB` • `PostgreSQL` |
+| **DevOps & Ferramentas** | `Git` • `GitHub Actions` • `Docker` • `Linux` |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Claneeer&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claneeer&layout=compact&theme=radial&hide_border=true&langs_count=6" alt="Linguagens Mais Utilizadas" height="170"/>
+
+</div>
+
+<br/>
+
+### 📌 Projetos em Destaque
+
+- **[BankSys]**: Aplicação Back-End / Mobile para simulação de serviços bancários.
+- **[ReVibe]**: Plataforma e marketplace voltado para economia circular e redução de resíduos têxteis.
+
+---
+
+<div align="center">
+  <sub>Desenvolvido por <b>Pedro Ivo</b> • Focado em performance e código limpo.</sub>
+</div>
